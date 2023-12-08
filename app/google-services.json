@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682144568179",
+    "project_id": "otp-verification-7ef5f",
+    "storage_bucket": "otp-verification-7ef5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682144568179:android:0e330250563429fbbd6b06",
+        "android_client_info": {
+          "package_name": "com.smartherd.otpverificationusingfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsNpHrY9B2tv6EKS2y9RaePruJGwi_StI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
